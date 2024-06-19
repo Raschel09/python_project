@@ -1,0 +1,4 @@
+import keyword
+text=input("Enter the text: ")
+file1=open("D:/myfile.txt","w")
+print(text,file=file1)
