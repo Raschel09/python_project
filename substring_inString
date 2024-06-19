@@ -1,0 +1,6 @@
+p=input("Enter text: ")
+q=input("Enter the substring:")
+if(q in p):
+    print("The Substring is present")
+else:
+    print("The Substring is not present")
