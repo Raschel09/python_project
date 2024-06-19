@@ -1,0 +1,4 @@
+x=input("Enter text: " )
+y=input("Enter text: ")
+z=x+y
+print("The concatenated string is ",z)
