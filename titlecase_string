@@ -1,0 +1,3 @@
+d=input("Enter the Text:")
+caps=d.title()
+print("The capitalized text is:",caps)
