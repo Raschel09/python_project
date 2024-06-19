@@ -1,0 +1,2 @@
+file1=open("D:/myfile.txt",'r')
+print(file1.read())
