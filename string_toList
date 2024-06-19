@@ -1,0 +1,3 @@
+a=input("Enter the text:")
+lst=list(a)
+print("The list of characters are: ",lst)
